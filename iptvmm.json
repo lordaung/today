@@ -16,7 +16,7 @@
       "interstitial_id" : "PASTE_YOUR_KEY_HERE"
     },
     "StartApp" : {
-      "app_id" : "PASTE_YOUR_KEY_HERE"
+      "app_id" : "203778961"
     },
     "UnityAds" : {
       "banner_id" : "PASTE_YOUR_KEY_HERE",
@@ -25,9 +25,9 @@
     }
   },
   "AppUpdates" : {
-    "app_name" : "Exion TV",
+    "app_name" : "MM TV",
     "app_updates" : "<ul> <li>Bugs fixes and performance improvements.</li> <li>Added build-in support for movies trailers</li> <li>Some other minnor changes</li> </ul>",
-    "app_url" : "https://exion-tv.en.uptodown.com/android",
+    "app_url" : "https://raw.githubusercontent.com/lordaung/today/main/iptvmm.json",
     "app_version" : "1.8.1"
   }
 }
