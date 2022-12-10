@@ -1,0 +1,33 @@
+{
+  "Ads" : {
+    "AdColony" : {
+      "app_id" : "PASTE_YOUR_KEY_HERE",
+      "banner_id" : "PASTE_YOUR_KEY_HERE",
+      "interstitial_id" : "PASTE_YOUR_KEY_HERE",
+    },
+    "AdMob" : {
+      "app_id" : "PASTE_YOUR_KEY_HERE",
+      "banner_id" : "PASTE_YOUR_KEY_HERE",
+      "interstitial_id" : "PASTE_YOUR_KEY_HERE"
+    },
+    "DisplayAds" : "unityad",
+    "Facebook" : {
+      "banner_id" : "PASTE_YOUR_KEY_HERE",
+      "interstitial_id" : "PASTE_YOUR_KEY_HERE"
+    },
+    "StartApp" : {
+      "app_id" : "PASTE_YOUR_KEY_HERE"
+    },
+    "UnityAds" : {
+      "banner_id" : "PASTE_YOUR_KEY_HERE",
+      "game_id" : PASTE_YOUR_KEY_HERE,
+      "interstitial_id" : "PASTE_YOUR_KEY_HERE"
+    }
+  },
+  "AppUpdates" : {
+    "app_name" : "Exion TV",
+    "app_updates" : "<ul> <li>Bugs fixes and performance improvements.</li> <li>Added build-in support for movies trailers</li> <li>Some other minnor changes</li> </ul>",
+    "app_url" : "https://exion-tv.en.uptodown.com/android",
+    "app_version" : "1.8.1"
+  }
+}
